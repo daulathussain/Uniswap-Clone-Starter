@@ -1,3 +1,116 @@
+
+# Building and Deploying a Uniswap Exchange Clone for DeFi
+
+Enter the world of decentralized finance (DeFi) with our Uniswap Exchange clone, UniClone. This project focuses on replicating the functionalities of the popular decentralized exchange Uniswap, providing users with a seamless and efficient platform for swapping tokens, providing liquidity, and earning fees.
+
+UniClone leverages smart contracts and blockchain technology to enable trustless and permissionless token swaps directly from users' wallets. By replicating Uniswap's automated market maker (AMM) mechanism, our clone ensures liquidity for all listed tokens and allows users to trade without the need for traditional order books or centralized intermediaries.
+
+## Project Overview
+
+![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/Uniswap-clone.jpg)
+
+## Instruction
+
+Kindly follow the following Instructions to run the project in your system and install the necessary requirements
+
+
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-uniswap-dapp-project-source-code)
+
+#### Setup Video
+- [Final Code Setup video](https://youtu.be/NAuuGa_7oro?si=hHXzjfPR_mPQx78p)
+
+```https://code.visualstudio.com/download
+  WATCH: Setup & Demo Of Project
+```
+
+#### Install Vs Code Editor
+
+```https://code.visualstudio.com/download
+  GET: VsCode Editor
+```
+
+#### NodeJs & NPM Version
+
+```https://nodejs.org/en/download
+  NodeJs: v18.12.1
+  NPM: 8.19.2
+```
+
+#### Clone Starter File
+
+```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
+  GET: Project Starter File Download
+```
+
+
+All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
+
+## Final Code Instruction
+
+If you download the final source code then you can follow the following instructions to run the Dapp successfully
+
+#### Setup Video
+
+```https://code.visualstudio.com/download
+  WATCH: Setup & Demo Of Project
+```
+
+#### Final Source Code
+
+```https://www.theblockchaincoders.com/SourceCode
+  Download the Final Source Code
+```
+
+#### Install Vs Code Editor
+
+```https://code.visualstudio.com/download
+  GET: VsCode Editor
+```
+
+#### NodeJs & NPM Version
+
+```https://nodejs.org/en/download
+  NodeJs: v18.12.1
+  NPM: 8.19.2
+```
+
+
+#### Test Faucets
+
+Alchemy will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
+
+```https://www.alchemy.com/faucets
+  Get: Free Test Faucets
+```
+
+#### RemixID
+
+We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
+
+```https://remix-project.org
+  OPEN: RemixID
+```
+
+#### Polygon Mumbai
+
+```https://mumbai.polygonscan.com/
+  OPEN: Polygon Mumbai
+```
+
+## Important Links
+
+- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
+- [Support Creator](https://bit.ly/Support-Creator)
+- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
+
+
+## Authors
+
+- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
+- [@consultancy](https://www.theblockchaincoders.com/consultancy)
+- [@youtube](https://www.youtube.com/@daulathussain)
+
+
 # IMPORTANT INFO
 
 # Address
@@ -85,3 +198,7 @@ const address1 = "0x6B175474E89094C44Da98b954EedeAC495271d0F";
 "typescript": "^5.0.4"
 }
 }
+
+
+
+
